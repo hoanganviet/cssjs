@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='http://kingdomland.com.vn' target='_blank'><img src='https://3.bp.blogspot.com/-umKwOzYsKVM/WhlPpRoxbGI/AAAAAAAAAPE/BvZYnkCfbYQU_4Qx9Ra6A-BGBvtmO7XVgCLcBGAs/s1600/gioi-tjieu-cong-hoa-garden.jpg' width='500px'/><br/>13 Dự án Cộng Hòa Garden</a>. Liên hệ giữ chỗ. 0911056444<h2><a class='close-hoanganviet-modal'>X</a></h2>");
+			$("#myModal").html("<a href='http://kingdomland.com.vn' target='_blank'><img src='https://3.bp.blogspot.com/-umKwOzYsKVM/WhlPpRoxbGI/AAAAAAAAAPE/BvZYnkCfbYQU_4Qx9Ra6A-BGBvtmO7XVgCLcBGAs/s1600/gioi-tjieu-cong-hoa-garden.jpg' width='500px'/><br/>Dự án Cộng Hòa Garden</a>. Liên hệ giữ chỗ. 0911056444<h2><a class='close-hoanganviet-modal'>X</a></h2>");
 			$('#myModal').hoanganviet-modal($('#myModal').data());
 		}
 });
